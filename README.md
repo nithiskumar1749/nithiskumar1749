@@ -9,9 +9,9 @@
   </a>
 
   <p align="center">
+    <a href="https://www.linkedin.com/in/nithis-kumar-331381306/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Nithiskumar_J-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://leetcode.com/u/Nithis6380/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-Nithis6380-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
     <a href="mailto:nithiskumar4949@gmail.com"><img src="https://img.shields.io/badge/Email-nithiskumar4949%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://leetcode.com"><img src="https://img.shields.io/badge/LeetCode-200%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
   </p>
 </div>
 
@@ -70,7 +70,15 @@ nithiskumar:
 
 ---
 
-### 📈 Activity & Engineering Stats
+### 📈 Activity & Problem Solving Stats
+
+<div align="center">
+  <a href="https://leetcode.com/u/Nithis6380/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/Nithis6380?theme=dark&font=fira" width="97%" alt="LeetCode Stats Card" />
+  </a>
+</div>
+
+<br/>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nithiskumar1749&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" width="48%" />
@@ -82,6 +90,11 @@ nithiskumar:
 </div>
 
 ---
+
+### 📫 Connect With Me
+- 💼 **LinkedIn:** [linkedin.com/in/nithis-kumar-331381306](https://www.linkedin.com/in/nithis-kumar-331381306/)
+- 🧩 **LeetCode:** [leetcode.com/u/Nithis6380](https://leetcode.com/u/Nithis6380/)
+- ✉️ **Email:** [nithiskumar4949@gmail.com](mailto:nithiskumar4949@gmail.com)
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21,31&height=100&section=footer" width="100%" />
